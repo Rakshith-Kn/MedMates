@@ -1,15 +1,14 @@
 # MedMates
 Medication errors cause millions of preventable injuries yearly. Our AI system uses IBM Watson, Hugging Face NLP and detect drug interactions, check age-specific dosages, and suggest safe alternatives—fast, accurate, and reliable for healthcare providers.
 
-Medical Prescription
 
-📌 Description
+#📌 #Description
 
 Medical Prescription is an AI-powered system designed to verify and analyze prescriptions for safety and accuracy.
 It helps detect drug interactions, confirm correct dosages, and suggest safe alternative medications based on a patient’s age and drug details.
 The project integrates IBM Watson AI and Hugging Face NLP models to process medical text efficiently.
 
-🚀 Features
+🚀 #Features
 
 ✅ Drug interaction detection
 
@@ -22,7 +21,7 @@ The project integrates IBM Watson AI and Hugging Face NLP models to process medi
 ✅ Fast and secure backend using FastAPI
 
 
-🛠 Tech Stack
+🛠 # Tech Stack
 
 Frontend: Streamlit
 
