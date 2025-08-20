@@ -21,7 +21,7 @@ The project integrates IBM Watson AI and Hugging Face NLP models to process medi
 ✅ Fast and secure backend using FastAPI
 
 
-🛠 # Tech Stack
+# Tech Stack
 
 Frontend: Streamlit
 
